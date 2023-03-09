@@ -13,6 +13,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - PHP User Group Rhein-Neckar - [Sulu CMS as a full headless solution](https://www.meetup.com/de-DE/phpug-rhein-neckar/events/275304491/) - 29.April.2021
 - Symfony User Group Hamburg - [An introduction to the world’s finest Symfony enterprise CMS](https://www.meetup.com/de-DE/sfughh/events/xqdjjrycchbgb/) - 4.May.2021
 - Symfony User Group Hamburg - [Sulu CMS as a full headless solution](https://www.meetup.com/de-DE/sfughh/events/xqdjjryccjbcb/) - 1.June.2021
+- Symfony User Group Hamburg - [Integration of modern encryption methods in Symfony](https://www.meetup.com/de-DE/sfughh/events/xqdjjryccpbdb/) - 2.November.2021
 - Symfony User Group Hamburg - [SOLID design principles](https://www.meetup.com/de-DE/sfughh/events/hdvhqsydcfbcb/) - 1.March.2022
 - Symfony User Group Aveiro - [SULU - An introduction to a Symfony enterprise CMS](https://www.meetup.com/de-DE/sfugaveiro/events/284155643/) - 29.March.2022
 - Symfony User Group Berlin - [Symfony Workflow Component](https://www.meetup.com/de-DE/sfugberlin/events/285591723/) - 11.May.2022
