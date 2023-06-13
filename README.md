@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Oliver Kossin, 28 Years old Symfony / Sulu Developer from Germany Cologne. 
-I love open source work, speaking at usergroups and conferences and organising the Symfony UserGroup Cologne.
+I love open source work, speaking at usergroups and conferences and organising the [Symfony UserGroup Cologne](https://www.meetup.com/de-DE/sfugcgn/).
 
 #### 👷 Check out what I'm currently contribute
 - [TheCadien/SuluNewsBundle](https://github.com/TheCadien/SuluNewsBundle)
@@ -20,8 +20,10 @@ I love open source work, speaking at usergroups and conferences and organising t
 - Symfony World Conference - [SULU - An introduction to a Symfony enterprise CMS](https://live.symfony.com/2022-world-summer/) - 16.June.2022
 - Sylius Germany User Group Meetup - [Sulu and Sylius - A Smart Headless Content and E-Commerce Solution](http://meetup.com/sylius-germany/events/287691577/) - 30.August.2022
 - Symfony User Group Cologne - [Upgrade your Symfony app with Rector](https://www.meetup.com/de-DE/sfugcgn/events/290308810/) - 19.Jan.2023
+- PHPErs Summit 2023 Conference - [SULU - An introduction to a Symfony enterprise CMS](https://summit.phpers.pl/) - 27.Mai.2023
 
 #### ✨ My publications
+- brandung DEEP DIVE - [SULU CMS: DEEP DIVE](https://www.agentur-brandung.de/agentur/news/detail/sulu-cms-deep-dive/) - 20.11.2020
 - PHP Magazin - [SOLID Design Principles: Fünf Pfade des Qualitätschecks](https://entwickler.de/magazine-ebooks/php-magazin/php-magazin-php-magazin-22022) - 2.2022
 
 #### 📫 How to reach me
