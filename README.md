@@ -25,10 +25,12 @@ I love open source work, speaking at usergroups and conferences and organising t
 - Symfony User Group Berlin - [Open Source - From idea to the project 🇬🇧](https://www.meetup.com/sfugberlin/events/295483905/) - 20.August.2023 
 - Symfony User Group Colgone - [PHP doesn't suck (anymore) 🇩🇪](https://www.meetup.com/sfugberlin/events/295483905/) - 10.October.2023
 - SyliusCon - [Sulu as a Full headless solution 🇬🇧](https://sylius.com/conference/) - 03.November.2023
+- SyliusDays - [A Look into the Future of Symfony Content Management - Entity-Based Content with Sulu 🇬🇧](https://sylius.com/sylius-days/) - 19.April.2024
 
 #### 👨🏻‍🏫 My latest Workshops 
 - QOSSMIC - [Symfony Team-Trainings 🇩🇪](https://www.qossmic.com/services/symfony-trainings)
 - SymfonyCon Brussels 2023 - [Develop your app, with a modern Symfony CMS - Sulu 🇬🇧](https://live.symfony.com/2023-brussels-con/workshop/develop-your-app-with-a-modern-symfony-cms-sulu)
+- Web Summer Camp 2024 - [Demystify Symfony - Understanding the functions of the framework 🇬🇧](https://websummercamp.com/2024/workshop/demystify-symfony-understanding-the-functions-of-the-framework)
 
 #### ✨ My publications
 - brandung DEEP DIVE - [SULU CMS: DEEP DIVE](https://www.agentur-brandung.de/agentur/news/detail/sulu-cms-deep-dive/) - 20.11.2020
