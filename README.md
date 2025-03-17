@@ -26,7 +26,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - Symfony User Group Colgone - [PHP doesn't suck (anymore) 🇩🇪](https://www.meetup.com/sfugberlin/events/295483905/) - 10.October.2023
 - SyliusCon - [Sulu as a Full headless solution 🇬🇧](https://sylius.com/conference/) - 03.November.2023
 - SyliusDays - [A Look into the Future of Symfony Content Management - Entity-Based Content with Sulu 🇬🇧](https://sylius.com/sylius-days/) - 19.April.2024
-- SymfonyLive Berlin Conference - [Demystify the magic of the Container 🇬🇧]([https://sylius.com/sylius-days/](https://live.symfony.com/2025-berlin/schedule/demystify-the-magic-of-the-container)) - 04.April.2025
+- SymfonyLive Berlin Conference - [Demystify the magic of the Container 🇬🇧](https://live.symfony.com/2025-berlin/schedule/demystify-the-magic-of-the-container) - 04.April.2025
 
 #### 👨🏻‍🏫 My latest Workshops 
 - QOSSMIC - [Symfony Team-Trainings 🇩🇪](https://www.qossmic.com/services/symfony-trainings)
