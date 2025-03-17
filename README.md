@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Oliver Kossin, 29 Years old Symfony / Sulu Developer from Germany Cologne. 
+I'm Oliver Kossin, 30 Years old Symfony Developer from Germany Cologne. 
 I love open source work, speaking at usergroups and conferences and organising the [Symfony UserGroup Cologne](https://www.meetup.com/de-DE/sfugcgn/).
 
 #### 👷 Check out what I'm currently contribute
