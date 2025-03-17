@@ -10,7 +10,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - [sulu/SuluHeadlessBundle](https://github.com/sulu/SuluHeadlessBundle)
 - [FriendsOfSulu](https://github.com/FriendsOfSulu)
 
-#### ⚡ My latest Talks - Last 2 Years
+#### ⚡ My latest Talks - Last 4 Years
 - PHP User Group Rhein-Neckar - [Sulu CMS as a full headless solution 🇬🇧](https://www.meetup.com/de-DE/phpug-rhein-neckar/events/275304491/) - 29.April.2021
 - Symfony User Group Hamburg - [An introduction to the world’s finest Symfony enterprise CMS 🇩🇪](https://www.meetup.com/de-DE/sfughh/events/xqdjjrycchbgb/) - 4.May.2021
 - Symfony User Group Hamburg - [Sulu CMS as a full headless solution 🇩🇪](https://www.meetup.com/de-DE/sfughh/events/xqdjjryccjbcb/) - 1.June.2021
@@ -26,6 +26,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - Symfony User Group Colgone - [PHP doesn't suck (anymore) 🇩🇪](https://www.meetup.com/sfugberlin/events/295483905/) - 10.October.2023
 - SyliusCon - [Sulu as a Full headless solution 🇬🇧](https://sylius.com/conference/) - 03.November.2023
 - SyliusDays - [A Look into the Future of Symfony Content Management - Entity-Based Content with Sulu 🇬🇧](https://sylius.com/sylius-days/) - 19.April.2024
+- SymfonyLive Berlin Conference - [Demystify the magic of the Container 🇬🇧]([https://sylius.com/sylius-days/](https://live.symfony.com/2025-berlin/schedule/demystify-the-magic-of-the-container)) - 04.April.2025
 
 #### 👨🏻‍🏫 My latest Workshops 
 - QOSSMIC - [Symfony Team-Trainings 🇩🇪](https://www.qossmic.com/services/symfony-trainings)
