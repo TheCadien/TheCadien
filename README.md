@@ -33,6 +33,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - SymfonyCon Brussels 2023 - [Develop your app, with a modern Symfony CMS - Sulu 🇬🇧](https://live.symfony.com/2023-brussels-con/workshop/develop-your-app-with-a-modern-symfony-cms-sulu)
 - Web Summer Camp 2024 - [Demystify Symfony - Understanding the functions of the framework 🇬🇧](https://websummercamp.com/2024/workshop/demystify-symfony-understanding-the-functions-of-the-framework)
 - PHPCon Poland 2024 - [Demystify Dependency Injection - Understanding the magic of the Container 🇬🇧](https://2024.phpcon.pl/en/)
+- SymfonyLive Berlin 2025 - [Symfony 7 - Grundlagen 🇩🇪](https://live.symfony.com/2025-berlin/workshop/symfony-7-grundlagen)
 
 #### ✨ My publications
 - brandung DEEP DIVE - [SULU CMS: DEEP DIVE](https://www.agentur-brandung.de/agentur/news/detail/sulu-cms-deep-dive/) - 20.11.2020
