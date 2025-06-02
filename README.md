@@ -27,6 +27,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - SyliusCon - [Sulu as a Full headless solution 🇬🇧](https://sylius.com/conference/) - 03.November.2023
 - SyliusDays - [A Look into the Future of Symfony Content Management - Entity-Based Content with Sulu 🇬🇧](https://sylius.com/sylius-days/) - 19.April.2024
 - SymfonyLive Berlin Conference - [Demystify the magic of the Container 🇬🇧](https://live.symfony.com/2025-berlin/schedule/demystify-the-magic-of-the-container) - 04.April.2025
+- SymfonyOnline Conference - [Demystify the magic of the Container 🇬🇧](https://live.symfony.com/2025-online-june/schedule#demystify-the-magic-of-the-container) - 12.June.2025
 
 #### 👨🏻‍🏫 My latest Workshops 
 - QOSSMIC - [Symfony Team-Trainings 🇩🇪](https://www.qossmic.com/services/symfony-trainings)
