@@ -35,6 +35,7 @@ I love open source work, speaking at usergroups and conferences and organising t
 - Web Summer Camp 2024 - [Demystify Symfony - Understanding the functions of the framework 🇬🇧](https://websummercamp.com/2024/workshop/demystify-symfony-understanding-the-functions-of-the-framework)
 - PHPCon Poland 2024 - [Demystify Dependency Injection - Understanding the magic of the Container 🇬🇧](https://2024.phpcon.pl/en/)
 - SymfonyLive Berlin 2025 - [Symfony 7 - Grundlagen 🇩🇪](https://live.symfony.com/2025-berlin/workshop/symfony-7-grundlagen)
+- SymfonyCon Amsterdam 2025 - [Doctrine ORM: Deep Dive 🇬🇧](https://live.symfony.com/2025-amsterdam-con/workshop#doctrine-orm-deep-dive-2)
 
 #### ✨ My publications
 - brandung DEEP DIVE - [SULU CMS: DEEP DIVE](https://www.agentur-brandung.de/agentur/news/detail/sulu-cms-deep-dive/) - 20.11.2020
